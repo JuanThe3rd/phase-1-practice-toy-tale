@@ -33,7 +33,7 @@ function renderPage(){
 
         toyCollectionElement.append(card);
 
-        document.getElementById(toy.id).addEventListener('click', (event) => {
+        document.getElementById(toy.id).addEventListener('click', () => {
           fetch(`${toyAPI}/${toy.id}`, {
             headers,
             method: 'PATCH',

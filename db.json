@@ -53,6 +53,12 @@
       "image": "https://static.wikia.nocookie.net/toy-story-fanom/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20201123124733",
       "likes": 3,
       "id": 9
+    },
+    {
+      "name": "Lotso",
+      "image": "https://static.wikia.nocookie.net/pixar/images/4/49/A61F0EF0-83A8-4E0D-B616-2E1ECE5C9062.png/revision/latest?cb=20181126205424",
+      "likes": 1,
+      "id": 10
     }
   ]
 }
